@@ -1,0 +1,4 @@
+name = "JuliAPD"
+uuid = "5a8a1490-1935-4f74-9982-d794e2760900"
+authors = ["mbuze <maciej.buze@gmail.com>"]
+version = "0.1.0"
